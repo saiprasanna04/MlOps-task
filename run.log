@@ -1,3 +1,3 @@
-2026-03-18 14:26:31,785 - INFO - Job started
-2026-03-18 14:26:31,786 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
-2026-03-18 14:26:31,825 - ERROR - Error occurred: Missing 'close' column
+INFO - Malformed CSV detected. Fixing column split.
+INFO - Columns after processing: ['timestamp', 'open', 'high', 'low', 'close', ...]
+INFO - Job completed successfully
