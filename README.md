@@ -16,3 +16,4 @@ python run.py \
   --config config.yaml \
   --output metrics.json \
   --log-file run.log
+# MlOps-task
